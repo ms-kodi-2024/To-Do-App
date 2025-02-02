@@ -1,0 +1,13 @@
+.listForm {
+	display: flex;
+	justify-content: center;
+	align-items: baseline;
+}
+
+.span {
+	margin-right: 10px;
+	
+	&:last-of-type {
+		margin-left: 10px;
+	}
+}
